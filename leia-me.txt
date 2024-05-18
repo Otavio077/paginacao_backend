@@ -1,0 +1,5 @@
+Como iniciar:
+- Abrir o projeto no VS Code;
+- Instalar as dependencias utilizando o "npm i"
+- Executar a api com "npm run dev"
+- Iniciar o front end...
